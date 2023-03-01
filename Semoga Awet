@@ -13,8 +13,6 @@ https://cdn13jtedge.indihometv.com/joss/130/tvone/chunklist_w161642170_b1004100_
 #EXTINF:-1,RTV
 https://cdnbpp1.indihometv.com/joss/130/rtv/chunklist_w548413327_b1004100_sleng.m3u8?enc=mWpIG6sTnNl1Q2Qn6igajQ&uid=&exp=1677701349
 #EXTINF:-1,NET TV
-https://anevi-live-channel-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-#EXTINF:-1,NET TV HD
 http://rr2.dens.tv/s/s08/index10.m3u8
 #EXTINF:-1,SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
