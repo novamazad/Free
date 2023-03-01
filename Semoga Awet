@@ -1,5 +1,36 @@
-#EXTINF:-1,TRANS 7 HD
-#EXT-X-STREAM-INF:BANDWIDTH=2544100,RESOLUTION=1920x1080,NAME="1080p"
-https://cdnbpp1.indihometv.com/joss/133/trans7/chunklist_w318831320_b2544100_sleng.m3u8?enc=fGaL05QZeTPHxji84ZpB9Q&uid=&exp=1677700028
 #EXTINF:-1,TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1183583741_b744100_sleng.m3u8
+#EXTINF:-1,TRANS 7 HD
+https://cdnbpp1.indihometv.com/joss/133/trans7/chunklist_w318831320_b2544100_sleng.m3u8?enc=fGaL05QZeTPHxji84ZpB9Q&uid=&exp=1677700028
+#EXTINF:-1,TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w286241066_b744100_sleng.m3u8
+#EXTINF:-1,TRANS TV HD
+https://cdn13jtedge.indihometv.com/joss/133/transtv1080/chunklist_w1591658082_b2544100_sleng.m3u8?enc=OZCRKv-slqet8dk5I5qvdQ&uid=&exp=1677701065
+#EXTINF:-1 group-title="INDONESIA",ANTV
+https://stream-04.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfHTZNTUfwLzwwFwzSEgC8rOGdZmigKGpIs3ZSAM5I_eP)/dm/3/x8chy4s/s/live-3.m3u8#cell=lsg1
+#EXTINF:-1,TVONE
+https://cdn13jtedge.indihometv.com/joss/130/tvone/chunklist_w161642170_b1004100_sleng.m3u8?enc=ZPYt65vaSuNQ_i0Q1-OFxQ&uid=&exp=1677701191
+#EXTINF:-1,RTV
+https://cdnbpp1.indihometv.com/joss/130/rtv/chunklist_w548413327_b1004100_sleng.m3u8?enc=mWpIG6sTnNl1Q2Qn6igajQ&uid=&exp=1677701349
+#EXTINF:-1,NET TV
+https://anevi-live-channel-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1,NET TV HD
+http://rr2.dens.tv/s/s08/index10.m3u8
+#EXTINF:-1,SCTV
+http://rr2.dens.tv/s/s03/index.m3u8
+#EXTINF:-1,INDOSIAR
+http://rr2.dens.tv/s/s04/index.m3u8
+#EXTINF:-1,RCTI
+https://d-rcti.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677725481-d79b2c14fd89c33209747b3cfb6f4c03-4I8tmS8uYSDa2OXE9YlXYzMRcaf4KT0Tazkc0d7v-70cb6b3c219fbcb06c28cb66a7e5ab51
+#EXTINF:-1,MNCTV
+https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677726541-3ffdd1ce16da88c7a51228c9968f4c5e-SDShQNYg8gjn7PQDzbHT1ZhnzMLKk00V4wcA4590-1124260257b2f93d176ada6621c32341
+#EXTINF:-1,GTV
+https://d-gtv.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677726601-813c9137934c7e7d53876163fa467799-MoH0h5d9v0aSakksxwlRtuBzP3gePSKWekPAQsVk-b04dc4b8ceb05f8726edbac35d9fb720
+#EXTINF:-1,INEWS
+https://d-inews.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677726652-9c66286b5662b7d5d960fb655cdac2dd-6DXlgMXoMy3IaWnJRWNVpNtUncuKKMMjOsga6mny-25c048b792e48c25e0add5ebe585c68b
+#EXTINF:-1,KOMPAS TV
+https://cdn12jtedge.indihometv.com/joss/133/kompastv540/chunklist_w75404879_b1004100_sleng.m3u8?enc=-gQY10kHiz7cQwlak1I-gw&uid=&exp=1677701429
+#EXTINF:-1,METRO TV
+https://cdngb196.indihometv.com/joss/133/metrotv1080/chunklist_w1927124151_b2544100_sleng.m3u8?enc=b629_vWFVONTPyFWmLCqCw&uid=&exp=1677701942
+#EXTINF:-1,TVRI
+https://cdngb196.indihometv.com/joss/133/tvri/chunklist_w990856883_b1004100_sleng.m3u8?enc=GnMKd7IO5dvrJtWxCPJd2A&uid=&exp=1677702020
