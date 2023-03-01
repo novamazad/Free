@@ -1,0 +1,22 @@
+#EXTINF:-1,ELEVEN SPORTS 1 HD,
+http://61.221.81.93:8078/hls/25/80/esport.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://61.221.81.93:8078/hls/25/80/esport.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http/http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1,廈門衛視
+http://61.221.81.93:8078/hls/42/80/xmtv.m3u8
+#EXTINF:-1,CCTV4-中央衛視
+http://61.221.81.93:8078/hls/42/80/cctv4.m3u8
+#EXTINF:-1,海峽衛視
+http://61.221.81.93:8078/hls/42/80/fjttv.m3u8
+#EXTINF:-1,浙江衛視
+http://61.221.81.93:8078/hls/41/80/zhejiang.m3u8
+#EXTINF:-1,東方衛視
+http://61.221.81.93:8078/hls/41/80/east.m3u8
+#EXTINF:-1,湖南衛視
+http://61.221.81.93:8078/hls/41/80/huana.m3u8
+#EXTINF:-1,鳯凰衛視資訊
+http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1,鳯凰衛視中文
+http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
