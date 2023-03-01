@@ -20,3 +20,13 @@ http://61.221.81.93:8078/hls/41/80/huana.m3u8
 http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1,鳯凰衛視中文
 http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1,BT SPORTS 1 HD
+http://line.premiumpowers.net:80/Manuel/1234567/30567
+#EXTINF:-1,BT SPORTS 2 HD
+http://line.premiumpowers.net:80/Manuel/1234567/30566
+#EXTINF:-1,BT SPORTS 3 HD
+http://line.premiumpowers.net:80/Manuel/1234567/30565
+#EXTINF:-1,BT SPORTS 4 HD
+http://line.premiumpowers.net:80/Manuel/1234567/1019935
+#EXTINF:-1,BT SPORTS 5 HD
+http://line.premiumpowers.net:80/Manuel/1234567/1004548
