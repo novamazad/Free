@@ -14,7 +14,7 @@ http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/162505
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165107
 
 #EXTINF:-1 group-title="LOKAL",ANTV
-https://list.iptvcat.com/my_list/s/739dc71566cb54cc9202a6648a32e455.m3u8
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #EXTINF:-1 group-title="LOKAL",BERITA SATU
 https://list.iptvcat.com/my_list/s/2c6e8a7cd76ff64f1e0fc7883bf6569a.m3u8
 #EXTINF:-1 group-title="LOKAL",CNBC INDONESIA
@@ -30,27 +30,25 @@ http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/
 #EXTINF:-1 group-title="LOKAL",KOMPAS TV
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8 
 #EXTINF:-1 group-title="LOKAL",METRO TV HD
-stream-2-1677726353.ts
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8stream-2-1677726353.ts
 #EXTINF:-1 group-title="LOKAL", MOJI HD
 http://45.126.83.51/qwr9ew/s/s41/index.m3u8
 #EXTINF:-1 group-title="LOKAL",MNCTV HD
 https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677726541-3ffdd1ce16da88c7a51228c9968f4c5e-SDShQNYg8gjn7PQDzbHT1ZhnzMLKk00V4wcA4590-1124260257b2f93d176ada6621c32341
 #EXTINF:-1 group-title="LOKAL", NET TV 
-http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 group-title="LOKAL",RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 #EXTINF:-1 group-title="LOKAL",SCTV
-http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 group-title="LOKAL",TVONE
 http://210.210.155.37/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 group-title="LOKAL",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1354917035_b744100_sleng.m3u8
 #EXTINF:-1 group-title="LOKAL",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w286241066_b744100_sleng.m3u8
-#EXTINF:-1 group-title="LOKAL",TRANS TV HD
-https://cdn13jtedge.indihometv.com/joss/133/transtv1080/chunklist_w1591658082_b2544100_sleng.m3u8?enc=OZCRKv-slqet8dk5I5qvdQ&uid=&exp=1677701065
 #EXTINF:-1 group-title="LOKAL",TVRI NASIONAL
-https://list.iptvcat.com/my_list/s/0a58fdbefdba9fac65c88ddf2c57fcd5.m3u8
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 #EXTINF:-1 group-title="LOKAL",TVRI SPORT 
 https://list.iptvcat.com/my_list/s/d772fe82adec55951a269db14c9be6d7.m3u8
 
