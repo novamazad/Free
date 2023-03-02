@@ -32,213 +32,183 @@ http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165054
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/80292
 #EXTINF:-1 group-title="LOKAL",RAJAWALI TV
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/196457
-#EXTINF:-1 ,1SPORTS
+#EXTINF:-1 group-title="SPORTS",1SPORTS
 http://103.218.25.12:89/play/a01t/index.m3u8
-#EXTINF:-1 ,EUROSPORT HD
-http://103.218.25.12:89/play/a01o/index.m3u8
-http://starshare.org:8080/live/gxc733/sxk877/23308.m3u8
-#EXTINF:-1 ,STAR SPORTS 1 HD
-http://103.218.25.12:89/play/a025/index.m3u8
-http://208.86.19.13:81/7366.stream/index.m3u8
-#EXTINF:-1 ,STAR SPORTS 2 HD
-http://103.218.25.12:89/play/a026/index.m3u8
-http://starshare.org:8080/live/gxc733/sxk877/200.m3u8
-#EXTINF:-1 ,STAR SPORTS HD
-http://starshare.org:8080/live/gxc733/sxk877/1080.m3u8
-#EXTINF:-1 ,TEN 1 HD
-http://103.218.25.12:89/play/a00q/index.m3u8
-http://starshare.live:8080/live/775577/775577/154.ts
-http://208.86.19.13:81/7266.stream/index.m3u8
-#EXTINF:-1 ,TEN 2 HD
-http://103.218.25.12:89/play/a027/index.m3u8
-http://starshare.live:8080/live/775577/775577/192.ts
-#EXTINF:-1 ,TEN 3 HD
-http://103.218.25.12:89/play/a00z/index.m3u8
-http://starshare.live:8080/live/775577/775577/146.ts
-#EXTINF:-1 ,Ten 5 HD
-http://103.218.25.12:89/play/a00r/index.m3u8
-http://starshare.live:8080/live/775577/775577/176.ts
-#EXTINF:-1 ,SONY ESPN HD
-http://starshare.live:8080/live/775577/775577/155.ts
-#EXTINF:-1 ,RTA Sports
-http://starshare.live:8080/live/775577/775577/1039.ts
-#EXTINF:-1 ,BT SPORT 1
-http://starshare.live:8080/live/775577/775577/23564.ts
-#EXTINF:-1 ,BT SPORT 2.
-http://starshare.live:8080/live/775577/775577/23565.ts
-#EXTINF:-1 ,BT SPORT 1 UK
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/52241.ts
-#EXTINF:-1 ,BT SPORT 2 UK
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/52240.ts
-#EXTINF:-1 ,EUROSPORTS
-http://starshare.live:8080/live/775577/775577/216.ts
-#EXTINF:-1 ,TS SPORT INDIA
-https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1 ,STARZPLAY SPORTS HD
-http://103.145.13.31/5/index.m3u8
-#EXTINF:-1 ,STARZPLAY SPORTS 2 HD
-http://103.145.13.31/7/index.m3u8
-#EXTINF:-1 ,SSC HD
-http://103.145.13.31/12/index.m3u8
-#EXTINF:-1 ,DAZN 1 SPORTS
-http://204.12.247.162:8080/premium426/mono.m3u8
-#EXTINF:-1 ,DAZN 2 SPORTS
-http://204.12.247.162:8080/premium427/mono.m3u8
-#EXTINF:-1 ,ARENA 1 SPORTS
-http://204.12.247.162:8080/premium429/mono.m3u8
-#EXTINF:-1 ,ARENA 2 SPORTS
-http://204.12.247.162:8080/premium582/mono.m3u8
-#EXTINF:-1 ,ARENA 3 SPORTS
-http://204.12.247.162:8080/premium431/mono.m3u8
-#EXTINF:-1 ,ARENA 4 SPORTS
-http://204.12.247.162:8080/premium581/mono.m3u8
-#EXTINF:-1 ,DIEMA SPORTS
-http://204.12.247.162:8080/premium465/mono.m3u8
-#EXTINF:-1 ,DIEMA SPORTS 2
-http://204.12.247.162:8080/premium466/mono.m3u8
-http://94.156.59.247:8899/udp/224.156.69.138:5000
-#EXTINF:-1 ,DIEMA SPORTS 3
-http://204.12.247.162:8080/premium467/mono.m3u8
-http://94.156.59.247:8899/udp/224.156.69.137:5000
-#EXTINF:-1 ,DIEMA SPORTS XTRA
-http://204.12.247.162:8080/premium468/mono.m3u8
-#EXTINF:-1 ,ESPN 2
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93033.ts
-#EXTINF:-1 ,TRUE SPORTS 3
-http://4digital.ddns.net:11224/ts/0
-#EXTINF:-1 ,SETANTA SPORTS 1
-https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
-#EXTINF:-1 ,SETANTA SPORTS 2
-https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
-#EXTINF:-1 ,TVRI_SPORT HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 ,RTV SPORT 
-http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-#EXTINF:-1 ,ESPN 2 HD
-http://190.5.200.52:8000/play/a00i/index.m3u8
-http://191.102.90.97:8000/play/a0jd/index.m3u8
-http://170.83.242.8:5350/play/a02u
-http://200.110.169.237:8202/play/a031
-#EXTINF:-1 ,CHAMPION SPORTS 1 HD
-http://103.167.167.5:8111/play/a01p/index.m3u8
-#EXTINF:-1 ,CHAMPION SPORTS HD
-http://103.167.167.5:8111/play/a01q/index.m3u8
-#EXTINF:-1 ,WILLOWS CRICKER HD
-http://starshare.org:8080/live/gxc733/sxk877/23943.m3u8
-#EXTINF:-1 ,FOX SPORT
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
-#EXTINF:-1 ,FOX SPORTS 2
-http://190.131.228.59:8000/play/a065/index.m3u8
-#EXTINF:-1 ,FOX SPORTS 3
-http://190.131.228.59:8000/play/a066/index.m3u8
-#EXTINF:-1 ,FOX SPORTS PREMIUM
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
-#EXTINF:-1 ,EUROSPORTS HD
+#EXTINF:-1 group-title="SPORTS",EUROSPORTS 
 http://starshare.org:8080/live/gxc733/sxk877/216.m3u8
-#EXTINF:-1 ,TEN SPORTS HD
-http://starshare.org:8080/live/gxc733/sxk877/98.m3u8
-#EXTINF:-1 ,BEIN SPORTS XTRA
-https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 ,SPOTV 2
-http://103.167.167.5:8111/play/a010/index.m3u8
-#EXTINF:-1 ,SPOTV 1
-http://103.167.167.5:8111/play/a020/index.m3u8
-#EXTINF:-1 ,DIGI SPORTS 1
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46984.ts
-#EXTINF:-1 ,DIGI SPORTS 2
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46983.ts
-#EXTINF:-1 ,DIGI SPORTS 3
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46982.ts
-#EXTINF:-1 ,DIGI SPORTS UHD
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/280.ts
-#EXTINF:-1 ,SPORT TV 2 UHD
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/281.ts
-#EXTINF:-1 ,BEIN SPORTS 1 HD 
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3682.ts
-#EXTINF:-1 ,BEIN SPORTS 2 HD 
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/47302.ts
-#EXTINF:-1 ,BEIN SPORTS 3 HD 
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3680.ts
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/1549.ts
-#EXTINF:-1 ,BEIN Sport 4 HD
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/49946.ts
-#EXTINF:-1 ,EUROSPORTS 2
-http://175.107.244.52:4457/play/a06w/index.m3u8
-#EXTINF:-1 ,EUROSPORTS 1
-http://175.107.244.52:4457/play/a06v/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 2 ENGLISH HD
-http://175.107.244.52:4457/play/a06z/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 3 ENGLISH HD
-http://175.107.244.52:4457/play/a06x/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS ARAB
-http://175.107.244.52:4457/play/a070/index.m3u8
-#EXTINF:-1 ,BEIN SPORTS 1 PREMIUM
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 ,BEIN SPORTS 2 PREMIUM
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 ,BEIN SPORTS 3 PREMIUM
-http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 ,BEIN SPORT 1 PREMIUM ARAB
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:-1 ,EUROSPORTS HD
+#EXTINF:-1 group-title="SPORTS",EUROSPORTS SD
+http://starshare.live:8080/live/775577/775577/216.ts
+#EXTINF:-1 group-title="SPORTS",EUROSPORT HD
+http://103.218.25.12:89/play/a01o/index.m3u8
+#EXTINF:-1 group-title="SPORTS",EUROSPORT HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-#EXTINF:-1 ,BEIN SPORTS 1 ORIGINAL
+#EXTINF:-1 group-title="SPORTS",EUROSPORTS 1
+http://175.107.244.52:4457/play/a06v/index.m3u8
+#EXTINF:-1 group-title="SPORTS",EUROSPORTS 2
+http://175.107.244.52:4457/play/a06w/index.m3u8
+#EXTINF:-1 group-title="SPORTS",STAR SPORTS 1 HD
+http://103.218.25.12:89/play/a025/index.m3u8
+#EXTINF:-1 group-title="SPORTS",STAR SPORTS 2 HD
+http://starshare.org:8080/live/gxc733/sxk877/200.m3u8
+#EXTINF:-1 group-title="SPORTS",STAR SPORTS HD
+http://starshare.org:8080/live/gxc733/sxk877/1080.m3u8
+#EXTINF:-1 group-title="SPORTS",TEN 1 HD
+http://208.86.19.13:81/7266.stream/index.m3u8
+#EXTINF:-1 group-title="SPORTS",TEN 2 HD
+http://starshare.live:8080/live/775577/775577/192.ts
+#EXTINF:-1 group-title="SPORTS",TEN 3 HD
+http://starshare.live:8080/live/775577/775577/146.ts
+#EXTINF:-1 group-title="SPORTS",Ten 5 HD
+http://starshare.live:8080/live/775577/775577/176.ts
+#EXTINF:-1 group-title="SPORTS",SONY ESPN HD
+http://starshare.live:8080/live/775577/775577/155.ts
+#EXTINF:-1 group-title="SPORTS",RTA Sports
+http://starshare.live:8080/live/775577/775577/1039.ts
+#EXTINF:-1 group-title="SPORTS",BT SPORT 1 
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/52241.ts
+#EXTINF:-1 group-title="SPORTS",BT SPORT 2 
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/52240.ts
+#EXTINF:-1 group-title="SPORTS",TS SPORT 
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS",STARZPLAY SPORTS HD
+http://103.145.13.31/5/index.m3u8
+#EXTINF:-1 group-title="SPORTS",STARZPLAY SPORTS 2 HD
+http://103.145.13.31/7/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SSC HD
+http://103.145.13.31/12/index.m3u8
+#EXTINF:-1 group-title="SPORTS",DAZN 1 SPORT
+http://204.12.247.162:8080/premium426/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",DAZN 2 SPORT
+http://204.12.247.162:8080/premium427/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",ARENA 1 SPORT
+http://204.12.247.162:8080/premium429/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",ARENA 2 SPORT
+http://204.12.247.162:8080/premium582/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",ARENA 3 SPORT
+http://204.12.247.162:8080/premium431/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",ARENA 4 SPORT
+http://204.12.247.162:8080/premium581/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",DIEMA SPORT
+http://204.12.247.162:8080/premium465/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",DIEMA SPORT 2
+http://204.12.247.162:8080/premium466/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",DIEMA SPORT 3
+http://204.12.247.162:8080/premium467/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",DIEMA SPORT XTRA
+http://204.12.247.162:8080/premium468/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93033.ts
+#EXTINF:-1 group-title="SPORTS",TRUE SPORT 3
+http://4digital.ddns.net:11224/ts/0
+#EXTINF:-1 group-title="SPORTS",TVRI SPORT HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="SPORTS",RTV SPORT 
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",CHAMPION TV 1 HD
+http://103.167.167.5:8111/play/a01p/index.m3u8
+#EXTINF:-1 group-title="SPORTS",CHAMPION TV 2 HD
+http://103.167.167.5:8111/play/a01q/index.m3u8
+#EXTINF:-1 group-title="SPORTS",WILLOWS CRICKER HD
+http://starshare.org:8080/live/gxc733/sxk877/23943.m3u8
+#EXTINF:-1 group-title="SPORTS",FOX SPORT
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS PREMIUM
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
+#EXTINF:-1 group-title="SPORTS",TEN SPORTS HD
+http://starshare.org:8080/live/gxc733/sxk877/98.m3u8
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS XTRA
+https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 group-title="SPORTS",SPOTV 1
+http://103.167.167.5:8111/play/a020/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SPOTV 2
+http://103.167.167.5:8111/play/a010/index.m3u8
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 1
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46984.ts
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 2
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46983.ts
+#EXTINF:-1 group-title="SPORTS",DIGI SPORT 3
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46982.ts
+#EXTINF:-1 group-title="SPORTS",SPORT TV 1
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/280.ts
+#EXTINF:-1 group-title="SPORTS",SPORT TV 2 
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/281.ts
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 1 PREMIUM
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 1 PREMIUM 
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 2 PREMIUM
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 3 PREMIUM
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 
+http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 1 
 http://103.167.167.5:8111/play/a02m/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 3 ORIGINAL
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 3 
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3680.ts
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 3 
 http://103.167.167.5:8111/play/a02n/index.m3u8
-#EXTINF:-1 ,TENNIS CHANEL
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 2 UK
+http://175.107.244.52:4457/play/a06z/index.m3u8
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 3 UK
+http://175.107.244.52:4457/play/a06x/index.m3u8
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 1 RF
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3682.ts
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 2  RF
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/47302.ts
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 3 TK
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/1549.ts
+#EXTINF:-1 group-title="SPORTS",BEIN Sport 4 TK
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/49946.ts
+#EXTINF:-1 group-title="SPORTS",TENNIS CHANEL 720p
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="SPORTS",TENNIS CHANEL 540p
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-#EXTINF:-1 ,ASTRO ARENA HD
+#EXTINF:-1 group-title="SPORTS",ASTRO ARENA HD
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
-#EXTINF:-1 ,ASTRO SUPERSPORT UHD
+#EXTINF:-1 group-title="SPORTS",ASTRO SUPERSPORT
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52859.ts
-#EXTINF:-1 ,ASTRO SUPERSPORT 4 UHD
+#EXTINF:-1 group-title="SPORTS",ASTRO SUPERSPORT 4
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
-#EXTINF:-1 ,TUDN SPORTS
+#EXTINF:-1 group-title="SPORTS",TUDN SPORTS
 http://45.182.21.251:33334/play/a07y/index.m3u8
-http://45.182.21.251:33334/play/a077/index.m3u8
-#EXTINF:-1 ,MAX SPORT 1
+#EXTINF:-1 group-title="SPORTS",MAX SPORT 1
 http://94.156.59.247:8899/udp/224.2.1.49:1234
-#EXTINF:-1 ,MAX SPORT 3
+#EXTINF:-1 group-title="SPORTS",MAX SPORT 3
 http://62.176.77.22:9781/play/a00i
-#EXTINF:-1 ,SPORTS TV 
+#EXTINF:-1 group-title="SPORTS",SPORTS TV 
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 ,SKY SPORTS F1 
+#EXTINF:-1 group-title="SPORTS",SKY SPORTS F1 
 http://tvpanel.one:80/live/den9179/611carc/586775.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY SPORTS F1
 http://tvpanel.one:80/live/den9179/611carc/586776.m3u8
-#EXTINF:-1 ,X SPORT
+#EXTINF:-1 group-title="SPORTS",X SPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 ,X SPORT+
+#EXTINF:-1 group-title="SPORTS",X SPORT+
 http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 ,A SORT HD
+#EXTINF:-1 group-title="SPORTS"A SPORT HD
 http://180.178.188.152:8000/play/a0ad
-#EXTINF:-1 ,ELEVEN 1 HD
+#EXTINF:-1 group-title="SPORTS",ELEVEN 1 HD
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15959
-#EXTINF:-1 ,ESPN 
-http://181.189.246.86:58003/play/a02h/index.m3u8
-#EXTINF:-1 ,ESPN 
-http://191.102.90.97:8000/play/a08b/index.m3u8
-#EXTINF:-1 ,ESPN 
+#EXTINF:-1 group-title="SPORTS",ESPN 
 http://170.83.242.8:5350/play/a00u
-#EXTINF:-1 ,ESPN 2 
+#EXTINF:-1 group-title="SPORTS",ESPN 2 
 http://181.189.246.86:58003/play/a02j/index.m3u8
-#EXTINF:-1 ,ESPN 2 LATIN 
+#EXTINF:-1 group-title="SPORTS",ESPN 2 
 http://170.83.242.8:5350/play/a00t
-#EXTINF:-1 ,ESPN 3 
+#EXTINF:-1 group-title="SPORTS",ESPN 3 
 http://181.189.246.86:58003/play/a02i/index.m3u8
-#EXTINF:-1 ,FOX SPORTS 3 
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS 3 
 http://170.83.242.155:5350/play/a014
-#EXTINF:-1 ,TELEMUNDO 
+#EXTINF:-1 group-title="SPORTS",TELEMUNDO 
 http://71.187.29.54:8000/play/a07a/index.m3u8
-#EXTINF:-1 ,CANAL + 3 SPORT 
+#EXTINF:-1 group-title="SPORTS",CANAL + 3 SPORT 
 https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/qgrgFjuER8P7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,CANAL + 4 SPORT 
+#EXTINF:-1 group-title="SPORTS",CANAL + 4 SPORT 
 https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/h3EVt1gISRl7/index.m3u8
-#EXTINF:-1 ,CANAL + 5 SPORT 
+#EXTINF:-1 group-title="SPORTS",CANAL + 5 SPORT 
 https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/ri6MpQ6fqlKM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,3 Sport HD 
+#EXTINF:-1 group-title="SPORTS",3 Sport HD 
 http://myott.top/stream/D3VTJRDNKLY/416.m3u8
-#EXTINF:-1 ,VIAPLAY XTRA
+#EXTINF:-1 group-title="SPORTS",VIAPLAY XTRA
 https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
