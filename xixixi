@@ -1,42 +1,37 @@
-KARTUN
-#EXTINF:-1,BOOMERANG INDIA
+#EXTINF:-1 group-title="CARTOON",BOOMERANG INDIA
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165109
-#EXTINF:-1,CARTOON NETWORK INDIA
+#EXTINF:-1 group-title="CARTOON",CARTOON NETWORK INDIA
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/157593
-#EXTINF:-1,DISNEY JUNIOR INDIA
+#EXTINF:-1 group-title="CARTOON",DISNEY JUNIOR INDIA
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/162511
-#EXTINF:-1,HBO SUB INDO
+#EXTINF:-1 group-title="CARTOON",HBO SUB INDO
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/197972
-#EXTINF:-1,HBO HITS SUB INDO
+#EXTINF:-1 group-title="CARTOON",HBO HITS SUB INDO
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/196480
-#EXTINF:-1,KIDS TV
+#EXTINF:-1 group-title="CARTOON",KIDS TV
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/162505
-#EXTINF:-1,NICK JUNIOR
+#EXTINF:-1 group-title="CARTOON",NICK JUNIOR
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165107
-
-LOCAL 
-#EXTINF:-1,IE
+#EXTINF:-1 group-title="LOKAL",IE
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/157582
-#EXTINF:-1,INEWS TV
+#EXTINF:-1 group-title="LOKAL",INEWS TV
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/157579
-#EXTINF:-1,JAK TV
+#EXTINF:-1 group-title="LOKAL",JAK TV
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/157601
-#EXTINF:-1,KOMPAS TV
+#EXTINF:-1 group-title="LOKAL",KOMPAS TV
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165060
-#EXTINF:-1,LIFESTYLE & FASHION
+#EXTINF:-1 group-title="LOKAL",LIFESTYLE & FASHION
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/157592
-#EXTINF:-1,METRO TV
+#EXTINF:-1 group-title="LOKAL",METRO TV
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165059
-#EXTINF:-1,MNC NEWS
+#EXTINF:-1 group-title="LOKAL",MNC NEWS
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165058
-#EXTINF:-1,MNC TV
+#EXTINF:-1 group-title="LOKAL",MNC TV
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165054
-#EXTINF:-1,NET
+#EXTINF:-1 group-title="LOKAL",NET
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/80292
-#EXTINF:-1,RAJAWALI TV
+#EXTINF:-1 group-title="LOKAL",RAJAWALI TV
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/196457
-
-SPORT
 #EXTINF:-1 ,1SPORTS
 http://103.218.25.12:89/play/a01t/index.m3u8
 #EXTINF:-1 ,EUROSPORT HD
