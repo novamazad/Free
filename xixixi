@@ -13,42 +13,46 @@ http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/162505
 #EXTINF:-1 group-title="CARTOON",NICK JUNIOR
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165107
 
-#EXTINF:-1 group-title="LOKAL",IE
-http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/157582
-#EXTINF:-1 group-title="LOKAL",INEWS TV
-http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/157579
-#EXTINF:-1 group-title="LOKAL",INEWS TV HD
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157579
-#EXTINF:-1 group-title="LOKAL",JAK TV
-http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/157601
-#EXTINF:-1 group-title="LOKAL",KOMPAS TV
-http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165060
-#EXTINF:-1 group-title="LOKAL",LIFESTYLE & FASHION
-http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/157592
-#EXTINF:-1 group-title="LOKAL",METRO TV
-http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165059
-#EXTINF:-1 group-title="LOKAL",MNC TV
-http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165058
-#EXTINF:-1 group-title="LOKAL",MNC TV HD
-http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165054
-#EXTINF:-1 group-title="LOKAL",NET SD
-http://rr2.dens.tv/s/s08/index10.m3u8
-#EXTINF:-1 group-title="LOKAL",NET HD
-http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/80292
-#EXTINF:-1 group-title="LOKAL",RAJAWALI TV
-http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/196457
-#EXTINF:-1 group-title="LOKAL",TRANS 7
-https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G0rkAAzFYkHTA1Fs0PI8EZm3FVZ5osphs1Fq0dZY1zb9)/dm/3/x6p1gw7/d/live-2.m3u8#cell=lsg1
 #EXTINF:-1 group-title="LOKAL",ANTV
-https://stream-04.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfHTZNTUfwLzwwFwzSEgC8rOGdZmigKGpIs3ZSAM5I_eP)/dm/3/x8chy4s/s/live-3.m3u8#cell=lsg1
-#EXTINF:-1 group-title="LOKAL",RCTI
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677725481-d79b2c14fd89c33209747b3cfb6f4c03-4I8tmS8uYSDa2OXE9YlXYzMRcaf4KT0Tazkc0d7v-70cb6b3c219fbcb06c28cb66a7e5ab51
-#EXTINF:-1 group-title="LOKAL",MNCTV
-https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677726541-3ffdd1ce16da88c7a51228c9968f4c5e-SDShQNYg8gjn7PQDzbHT1ZhnzMLKk00V4wcA4590-1124260257b2f93d176ada6621c32341
-#EXTINF:-1 group-title="LOKAL",GTV
+https://list.iptvcat.com/my_list/s/739dc71566cb54cc9202a6648a32e455.m3u8
+#EXTINF:-1 group-title="LOKAL",BERITA SATU
+https://list.iptvcat.com/my_list/s/2c6e8a7cd76ff64f1e0fc7883bf6569a.m3u8
+#EXTINF:-1 group-title="LOKAL",CNBC INDONESIA
+https://list.iptvcat.com/my_list/s/4c9437386126d4c8e905a9132a0401eb.m3u8
+#EXTINF:-1 group-title="LOKAL",GTV HD
 https://d-gtv.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677726601-813c9137934c7e7d53876163fa467799-MoH0h5d9v0aSakksxwlRtuBzP3gePSKWekPAQsVk-b04dc4b8ceb05f8726edbac35d9fb720
-#EXTINF:-1 group-title="LOKAL",INEWS
+#EXTINF:-1 group-title="LOKAL",HOPE CHANEL
+https://list.iptvcat.com/my_list/s/17f9a104e4d3263399ea257880712364.m3u8
+#EXTINF:-1 group-title="LOKAL",INEWS HD
 https://d-inews.rctiplus.id/inews-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677726652-9c66286b5662b7d5d960fb655cdac2dd-6DXlgMXoMy3IaWnJRWNVpNtUncuKKMMjOsga6mny-25c048b792e48c25e0add5ebe585c68b
+#EXTINF:-1 group-title="LOKAL", INDOSIAR 
+http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="LOKAL",KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s104/index.m3u8 
+#EXTINF:-1 group-title="LOKAL",METRO TV HD
+stream-2-1677726353.ts
+#EXTINF:-1 group-title="LOKAL", MOJI HD
+http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1 group-title="LOKAL",MNCTV HD
+https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677726541-3ffdd1ce16da88c7a51228c9968f4c5e-SDShQNYg8gjn7PQDzbHT1ZhnzMLKk00V4wcA4590-1124260257b2f93d176ada6621c32341
+#EXTINF:-1 group-title="LOKAL", NET TV 
+http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 group-title="LOKAL",RTV
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+#EXTINF:-1 group-title="LOKAL",SCTV
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="LOKAL",TVONE
+http://210.210.155.37/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1354917035_b744100_sleng.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w286241066_b744100_sleng.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANS TV HD
+https://cdn13jtedge.indihometv.com/joss/133/transtv1080/chunklist_w1591658082_b2544100_sleng.m3u8?enc=OZCRKv-slqet8dk5I5qvdQ&uid=&exp=1677701065
+#EXTINF:-1 group-title="LOKAL",TVRI NASIONAL
+https://list.iptvcat.com/my_list/s/0a58fdbefdba9fac65c88ddf2c57fcd5.m3u8
+#EXTINF:-1 group-title="LOKAL",TVRI SPORT 
+https://list.iptvcat.com/my_list/s/d772fe82adec55951a269db14c9be6d7.m3u8
 
 #EXTINF:-1 group-title="SPORTS",1SPORTS
 http://103.218.25.12:89/play/a01t/index.m3u8
